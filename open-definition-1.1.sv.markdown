@@ -49,7 +49,7 @@ sådan spridning.
 
 ### 3. Bearbetningar
 
-Licensen måste tillåta modifieringar och framställanden av bearbetade
+Licensen måste tillåta modifieringar och framställning av bearbetade
 verk. Licensen måste tillåta att sådana bearbetade verk sprids under
 samma villkor som det ursprungliga verket. 
 
