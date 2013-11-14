@@ -63,7 +63,7 @@ Verket måste tillgängliggöras i ett format som inte innehåller några
 tekniska hinder för att utföra aktiviteterna i ovanstående punkter. Detta
 kan säkerställas genom att tillgängliggöra verket i ett öppet format, det
 vill säga ett format vars specifikation finns publikt och avgiftsfritt
-tillängligt och där inga villkor ställer krav på avgifter eller andra
+tillgängligt och där inga villkor ställer krav på avgifter eller andra
 hinder för att använda formatet.
 
 ### 5. Erkännande
