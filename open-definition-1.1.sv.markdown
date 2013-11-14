@@ -44,7 +44,7 @@ en databas åt gången.*
 Licensen ska inte begränsa någon part från att sälja eller gratis
 erbjuda verket som fristående verk eller ingående i ett samlingsverk
 där verk från flera olika källor ingår. Licensen ska inte ställa krav på
-royaltyer eller andra avgifter kopplade till försäljning eller annan
+royalty eller andra avgifter kopplade till försäljning eller annan
 sådan spridning.
 
 ### 3. Bearbetningar
